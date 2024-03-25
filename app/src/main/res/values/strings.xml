@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NFC Tools</string>
+    <string name="howitworks">How it works?\n\n- Ketika tap dapat serial number \n- Balik per 2 digit urutan serial number(flip)\n- Ambil First/Last 8 char dari serial num\n- Convert fist/last yg berupa hexadecimal ke decimal\n- Jika panjang hasil kurang dari 10 karakter, tambahkan 0 didepan hingga genap 10 char\n- Jadilah nfcid</string>
+    <string name="show"><u>Tampilkan</u></string>
+    <string name="hide"><u>Sembunyikan</u></string>
+</resources>
